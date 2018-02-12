@@ -1,0 +1,9 @@
+C:\Documents and Settings\Vip\桌面\NTier\NTier\bin\Debug\NTier.exe
+C:\Documents and Settings\Vip\桌面\NTier\NTier\bin\Debug\NTier.pdb
+C:\Documents and Settings\Vip\桌面\NTier\NTier\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Vip\桌面\NTier\NTier\obj\Debug\NTier.Form1.resources
+C:\Documents and Settings\Vip\桌面\NTier\NTier\obj\Debug\NTier.Properties.Resources.resources
+C:\Documents and Settings\Vip\桌面\NTier\NTier\obj\Debug\NTier.csproj.GenerateResource.Cache
+C:\Documents and Settings\Vip\桌面\NTier\NTier\obj\Debug\NTier.exe
+C:\Documents and Settings\Vip\桌面\NTier\NTier\obj\Debug\NTier.pdb
+C:\Documents and Settings\Vip\桌面\NTier\NTier\obj\Debug\NTier.StudentManager.InputStudentForm.resources
